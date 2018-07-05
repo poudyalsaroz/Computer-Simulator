@@ -1,6 +1,5 @@
 package part1;
 
-public class Reader {
-
+public class Reader implements ReaderInterface {
 
 }

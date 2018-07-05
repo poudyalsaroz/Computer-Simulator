@@ -1,6 +1,5 @@
 package part1;
 
-public class Printer {
-
-
+public class Printer implements PrinterInterface {
+	
 }

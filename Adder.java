@@ -1,5 +1,5 @@
 package part1;
 
-public class Adder {
+public class Adder implements AdderInterface {
 
 }

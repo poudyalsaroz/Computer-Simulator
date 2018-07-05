@@ -1,5 +1,5 @@
 package part1;
 
-public class Complementer {
+public class Complementer implements ComplementerInterface {
 
 }

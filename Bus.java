@@ -1,6 +1,5 @@
 package part1;
 
-public class Bus {
-
+public class Bus implements BusInterface {
 
 }
